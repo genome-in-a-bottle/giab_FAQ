@@ -22,3 +22,6 @@ This repository contains FAQs (Frequently Asked Questions) for genome in a bottl
 
 6. Can I access GIAB data from Amazon cloud?<br />
    <sub>Yes. All the GIAB data has been mirrored into Amazon S3, and the bucket name is s3://giab.</sub><br />
+
+7. How can I get updates about new data, analyses, and conference calls of the GIAB Analysis Team?<br />
+   <sub>Sign up for our GIAB Analysis Team google group at https://groups.google.com/forum/#!forum/giab-analysis-team.  You can also sign up for general GIAB emails (e.g., workshop announcements) at https://groups.google.com/forum/#!forum/genome-in-a-bottle. </sub><br />
