@@ -16,9 +16,9 @@ This repository contains FAQs (Frequently Asked Questions) for genome in a bottl
 
 5. What tool should I use to compare my SNP and small indel calls to the GIAB high-confidence calls?<br />
    <sub>The Global Alliance for Genomics and Health Benchmarking Team is currently developing standardized definitions for performance metrics and tools to calculate these metrics, including around complex variants that can have multiple correct representations in vcf.  Three tools are currently being actively developed by the team:<br />
-      <sub>vcfeval from Real Time Genomics (http://realtimegenomics.com/products/rtg-core-non-commercial/)</sub><br />
-      <sub>hap.py from Illumina (https://github.com/sequencing/hap.py)</sub><br />
-      <sub>vgraph from Kevin Jacobs (https://github.com/bioinformed/vgraph)</sub></sub><br />
+      vcfeval from Real Time Genomics (http://realtimegenomics.com/products/rtg-core-non-commercial/)<br />
+      hap.py from Illumina (https://github.com/sequencing/hap.py)<br />
+      vgraph from Kevin Jacobs (https://github.com/bioinformed/vgraph)</sub><br />
 
 6. Can I access GIAB data from Amazon cloud?<br />
    <sub>Yes. All the GIAB data has been mirrored into Amazon S3, and the bucket name is s3://giab.</sub><br />
