@@ -6,7 +6,9 @@ This repository contains FAQs (Frequently Asked Questions) for genome in a bottl
    <sub>If you have data or analysis results to be submitted to GIAB ftp site, please contact Justin Zook (Justin.Zook@nist.gov) and Chunlin Xiao (xiao2@ncbi.nlm.nih.gov). An instruction will be sent to you regarding how to set up an uploading account.</sub><br />
 
 2. Where can I find the latest sequence data, alignment data, analysis results by analysis group for the GIAB project?<br />
-   <sub>All the data from the GIAB project are under ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data. The data are being organized by the individual trio (or sample) first, then by sequencing platforms.  The "analysis" folder under each trio (or sample) contains analysis results submitted by the analysis group with the sub-folder names consisting of: (1). the name of the analyzer or submitter, (2). sequencing technology or dataset(s), (3). type of variant to be analyzed, (4). analysis tool being used, and (5). date that serves as "version".</sub><br />
+   <sub>All the data from the GIAB project are under ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data. The data are being organized by the individual trio (or sample) first, then by sequencing platforms.  For a list of raw sequence files (eg fastq or hdf5 format) or alignment files (eg bams format) to download for your own analysis, you can go the repository of "giab_data_indexes" (https://github.com/genome-in-a-bottle/giab_data_indexes) to find the index file of interest with the particular sequencing platform.
+
+   <sub>The "analysis" folder under each trio (or sample) contains analysis results submitted by the analysis group with the sub-folder names consisting of: (1). the name of the analyzer or submitter, (2). sequencing technology or dataset(s), (3). type of variant to be analyzed, (4). analysis tool being used, and (5). date that serves as "version".</sub><br />
    
 3. Where can I find high-confidence variant calls and bed files from the GIAB project?<br />
    <sub>The latest release and old versions are always under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/</sub><br />
