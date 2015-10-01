@@ -1,5 +1,5 @@
 # giab_FAQ
-This repository contains FAQs (Frequently Asked Questions) for genome in a bottle project
+This repository contains FAQs (Frequently Asked Questions) for the Genome in a Bottle Consortium
 ************************************************************************************************
 
 1. If I have data or analyses from GIAB samples, how can I submit data to GIAB ftp site?<br />
