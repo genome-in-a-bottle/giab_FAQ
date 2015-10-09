@@ -27,3 +27,6 @@ This repository contains FAQs (Frequently Asked Questions) for the Genome in a B
 
 7. How can I get updates about new data, analyses, and conference calls of the GIAB Analysis Team?<br />
    <sub>Sign up for our GIAB Analysis Team google group at https://groups.google.com/forum/#!forum/giab-analysis-team.  You can also sign up for general GIAB emails (e.g., workshop announcements) at https://groups.google.com/forum/#!forum/genome-in-a-bottle. </sub><br />
+
+8. What should I know about how to use the GIAB calls appropriately?<br />
+<sub>(a) It is important to use the high-confidence bed file if you wish to assess false positive rates. (b) We highly recommend manually inspecting a subset of putative false positives and negatives to understand whether they actually are errors and what causes them. (c) The high-confidence calls and regions are biased towards easier variants and regions, so one should not assume performance metrics can be extended to types of calls and regions that are not assessed.  This is especially critical for some clinical tests that are enriched for difficult variants or regions. (d) Stratification of performance into different types of variants and different genome contexts can be very important. (e) It is important to calculate confidence intervals for performance metrics like sensitivity, using a tool like binconf in R.</sub><br />
