@@ -2,6 +2,7 @@
 This repository contains FAQs (Frequently Asked Questions) for the Genome in a Bottle Consortium
 ************************************************************************************************
 
+
 1. If I have data or analyses from GIAB samples, how can I submit data to GIAB ftp site?<br />
    <sub>If you have data or analysis results to be submitted to GIAB ftp site, please contact Justin Zook (Justin.Zook@nist.gov) and Chunlin Xiao (xiao2@ncbi.nlm.nih.gov). An instruction will be sent to you regarding how to set up an uploading account.</sub><br />
 
